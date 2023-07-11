@@ -1,7 +1,6 @@
 # ChatGPT for Google
 
 ![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/tree-s/chatgpt-google-extension/pre-release-build.yml)
-[![Twitter Follow](https://img.shields.io/twitter/follow/chatgpt4google?style=social)](https://twitter.com/chatgpt4google)
 ![License](https://img.shields.io/github/license/tree-s/chatgpt-google-extension)
 
 ### Notice (2023-02-20)
