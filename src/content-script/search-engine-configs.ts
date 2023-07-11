@@ -69,7 +69,7 @@ export const config: Record<string, SearchEngine> = {
   },
   searx: {
     inputQuery: ["input[name='q']"],
-    sidebarContainerQuery: ['#sidebar_results'],
+    sidebarContainerQuery: ['#sidebar_results,#sidebar'],
     appendContainerQuery: [],
   },
 }
