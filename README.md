@@ -46,8 +46,3 @@ Enable "Allow access to search page results" in the extension management page
 2. Install dependencies with `npm`
 3. `npm run build`
 4. Load `build/chromium/` or `build/firefox/` directory to your browser
-
-## Star History
-
-[![Star History Chart](https://api.star-history.com/svg?repos=tree-s/chatgpt-google-extension&type=Date)](https://star-history.com/#tree-s/chatgpt-google-extension&Date)
-
