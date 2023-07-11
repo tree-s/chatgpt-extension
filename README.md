@@ -1,8 +1,8 @@
 # ChatGPT for Google
 
-![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/wong2/chatgpt-google-extension/pre-release-build.yml)
+![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/tree-s/chatgpt-google-extension/pre-release-build.yml)
 [![Twitter Follow](https://img.shields.io/twitter/follow/chatgpt4google?style=social)](https://twitter.com/chatgpt4google)
-![License](https://img.shields.io/github/license/wong2/chatgpt-google-extension)
+![License](https://img.shields.io/github/license/tree-s/chatgpt-google-extension)
 
 ### Notice (2023-02-20)
 
@@ -63,5 +63,5 @@ Enable "Allow access to search page results" in the extension management page
 
 ## Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=wong2/chatgpt-google-extension&type=Date)](https://star-history.com/#wong2/chatgpt-google-extension&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=tree-s/chatgpt-google-extension&type=Date)](https://star-history.com/#tree-s/chatgpt-google-extension&Date)
 
