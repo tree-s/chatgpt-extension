@@ -1,7 +1,7 @@
 import { getExtensionVersion } from './utils'
 
-//const API_HOST = 'https://chatgpt4google.com'
-const API_HOST = 'http://localhost:3000'
+const API_HOST = 'https://chatgpt4google.com'
+//const API_HOST = 'http://localhost:3000'
 
 export interface PromotionResponse {
   url: string
@@ -13,11 +13,7 @@ export interface PromotionResponse {
 }
 
 export async function fetchPromotion(): Promise<PromotionResponse | null> {
-  return fetch(`${API_HOST}/api/p`, {
-    headers: {
-      'x-version': getExtensionVersion(),
-    },
-  }).then((r) => r.json())
+  return null
 }
 
 export async function fetchExtensionConfigs(): Promise<{
