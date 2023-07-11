@@ -1,4 +1,4 @@
-# ChatGPT for Google
+# ChatGPT for Search
 
 ![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/tree-s/chatgpt-google-extension/pre-release-build.yml)
 ![License](https://img.shields.io/github/license/tree-s/chatgpt-google-extension)
