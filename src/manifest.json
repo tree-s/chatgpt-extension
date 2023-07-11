@@ -231,7 +231,7 @@
         "https://*.yandex.kz/search*",
         "https://*.yandex.by/search*",
         "https://searx.be/search*",
-        "https://searx.org/search*",
+        "https://searx.org/search*"
       ],
       "js": ["content-script.js"],
       "css": ["content-script.css"]
